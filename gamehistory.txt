@@ -1,0 +1,4721 @@
+Game started
+User is going first.
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[X, X, ., ., ., ., ., X, ., .]
+C[., ., X, X, X, ., ., X, ., .]
+D[., ., ., ., ., ., ., X, ., .]
+E[., X, X, X, X, X, ., X, ., .]
+F[., ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., X, ., .]
+I[., ., ., ., ., ., ., X, ., .]
+J[., ., ., ., ., ., ., X, ., .]
+User inputs 'A1'
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'A2'
+AI outputs 'E6'
+User inputs 'HIT Carrier'
+User inputs 'A3'
+AI outputs 'E4'
+User inputs 'HIT Carrier'
+User inputs 'A4'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'A5'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'A6'
+AI outputs 'D8'
+User inputs 'HIT Battleship'
+User inputs 'A7'
+AI outputs 'C8'
+User inputs 'HIT Battleship'
+User inputs 'A8'
+AI outputs 'B8'
+User inputs 'HIT Battleship'
+User inputs 'A9'
+AI outputs 'A8'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'A10'
+AI outputs 'G8'
+User inputs 'HIT Cruiser'
+User inputs 'B1'
+AI outputs 'H8'
+User inputs 'HIT Cruiser'
+User inputs 'B2'
+AI outputs 'F8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'B3'
+AI outputs 'H3'
+User inputs 'HIT Submarine'
+User inputs 'B4'
+AI outputs 'H4'
+User inputs 'HIT Submarine'
+User inputs 'B5'
+AI outputs 'H5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'B6'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'B7'
+AI outputs 'B4'
+User inputs 'HIT Destroyer'
+User inputs 'B8'
+AI outputs 'B5'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'C4'
+User inputs 'HIT, SUNK Destroyer'
+Computer won the game in 19 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., X, X, X, ., X, ., .]
+D[., ., ., ., ., X, ., X, ., .]
+E[., ., ., ., ., X, ., X, ., .]
+F[., ., X, ., ., X, ., X, ., .]
+G[., ., X, ., ., X, X, X, ., .]
+H[., ., X, ., ., ., X, ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'E5'
+AI outputs 'H9'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'J8'
+User inputs 'HIT Carrier'
+User inputs 'E6'
+AI outputs 'I8'
+User inputs 'HIT Carrier'
+User inputs 'D6'
+AI outputs 'H8'
+User inputs 'HIT Carrier'
+User inputs 'C6'
+AI outputs 'G8'
+User inputs 'HIT Carrier'
+User inputs 'G6'
+AI outputs 'F8'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'C7'
+AI outputs 'J2'
+User inputs 'HIT Battleship'
+User inputs 'C5'
+AI outputs 'I2'
+User inputs 'HIT Battleship'
+User inputs 'C4'
+AI outputs 'H2'
+User inputs 'HIT Battleship'
+User inputs 'E3'
+AI outputs 'G2'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'H3'
+AI outputs 'A7'
+User inputs 'HIT Cruiser'
+User inputs 'H4'
+AI outputs 'B7'
+User inputs 'HIT Cruiser'
+User inputs 'G3'
+AI outputs 'C7'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'F3'
+AI outputs 'F5'
+User inputs 'HIT Submarine'
+User inputs 'F4'
+AI outputs 'E5'
+User inputs 'HIT Submarine'
+User inputs 'G5'
+AI outputs 'D5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'F8'
+AI outputs 'F7'
+User inputs 'HIT Destroyer'
+User inputs 'E8'
+AI outputs 'E7'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., c, ., ., .]
+B[., ., ., ., ., ., c, ., ., .]
+C[., ., ., ., ., ., c, ., ., .]
+D[., ., ., ., S, ., ., ., ., .]
+E[., ., ., ., S, ., D, ., ., .]
+F[., ., ., ., S, ., D, C, ., .]
+G[., B, ., ., ., ., ., C, ., .]
+H[., B, ., ., ., ., ., C, M, .]
+I[., B, ., ., ., ., ., C, ., .]
+J[., B, ., ., ., ., ., C, ., .]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., c, c, c, M, ., ., .]
+D[., ., ., ., ., B, ., ., ., .]
+E[., ., M, ., M, B, ., C, ., .]
+F[., ., S, M, ., B, ., C, ., .]
+G[., ., S, ., M, B, ., ., ., .]
+H[., ., S, M, ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Computer won the game in 18 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., X, X, X, X, ., ., ., .]
+E[., ., ., X, ., ., X, ., ., .]
+F[., ., ., X, ., ., X, X, ., .]
+G[., ., ., X, ., ., X, X, ., .]
+H[., ., X, X, X, X, X, ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'F4'
+User inputs 'HIT Submarine'
+User inputs 'F6'
+AI outputs 'E4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'G4'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'F3'
+User inputs 'HIT Submarine'
+User inputs 'F7'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'F5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'D4'
+AI outputs 'E2'
+User inputs 'HIT Carrier'
+User inputs 'D5'
+AI outputs 'D2'
+User inputs 'HIT Carrier'
+User inputs 'D6'
+AI outputs 'C2'
+User inputs 'HIT Carrier'
+User inputs 'D7'
+AI outputs 'B2'
+User inputs 'HIT Carrier'
+User inputs 'D3'
+AI outputs 'A2'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'F3'
+AI outputs 'J4'
+User inputs 'MISS'
+User inputs 'I4'
+AI outputs 'D10'
+User inputs 'HIT Destroyer'
+User inputs 'H5'
+AI outputs 'C10'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'H4'
+AI outputs 'D7'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'B8'
+User inputs 'HIT Battleship'
+User inputs 'H3'
+AI outputs 'A8'
+User inputs 'HIT Battleship'
+User inputs 'H7'
+AI outputs 'C8'
+User inputs 'HIT Battleship'
+User inputs 'G4'
+AI outputs 'D8'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'G3'
+AI outputs 'J6'
+User inputs 'HIT Cruiser'
+User inputs 'F4'
+AI outputs 'I6'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'J5'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'J7'
+User inputs 'HIT Cruiser'
+User inputs 'E8'
+AI outputs 'J8'
+User inputs 'HIT, SUNK Cruiser'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., C, ., ., ., ., ., B, ., .]
+B[., C, ., ., ., ., ., B, ., .]
+C[., C, ., ., ., ., ., B, ., D]
+D[., C, ., ., ., ., M, B, ., D]
+E[., C, ., M, ., ., M, ., ., .]
+F[., M, S, S, S, ., ., ., ., .]
+G[., ., ., M, ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., M, ., ., ., .]
+J[., ., ., M, M, c, c, c, ., .]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., B, B, B, B, M, ., ., .]
+E[., ., ., c, M, ., S, M, ., .]
+F[., ., M, c, ., M, S, ., ., .]
+G[., ., M, c, M, M, S, ., ., .]
+H[., ., C, C, C, C, C, ., ., .]
+I[., ., ., M, ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Computer won the game in 25 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., ., ., X, X, ., ., ., ., .]
+F[., ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., X, X, X, ., ., .]
+D[., ., ., ., X, X, X, X, ., .]
+E[., ., ., ., X, X, ., X, ., .]
+F[., ., ., ., X, X, ., X, ., .]
+G[., ., ., ., X, X, ., X, ., .]
+H[., ., ., ., ., X, ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., X, ., .]
+B[X, ., ., ., ., ., ., X, ., X]
+C[X, ., ., ., ., ., ., X, ., X]
+D[X, ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., X]
+F[., ., ., ., ., X, ., ., ., X]
+G[., ., ., ., ., X, ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[X, X, X, X, ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'E5'
+AI outputs 'E5'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., X, ., ., X, X, X, .]
+B[., ., ., X, ., ., ., ., ., .]
+C[., ., ., X, ., ., ., ., ., .]
+D[X, X, X, X, ., ., X, ., ., .]
+E[., ., ., ., ., ., X, ., ., .]
+F[., ., ., ., ., ., X, ., ., .]
+G[., ., ., ., ., ., X, ., ., .]
+H[., ., ., ., ., ., X, ., ., .]
+I[X, X, ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, X, X, ., ., ., ., ., .]
+B[., X, ., ., ., ., ., ., ., .]
+C[., X, ., ., ., ., ., X, ., .]
+D[., X, ., ., ., ., ., X, ., .]
+E[., X, ., ., ., ., ., X, ., .]
+F[., ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., X, X, X]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., X, X, X, X, ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'G7'
+User inputs 'HIT Battleship'
+User inputs 'D7'
+AI outputs 'G8'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'H7'
+User inputs 'HIT Battleship'
+User inputs 'C4'
+AI outputs 'I7'
+User inputs 'HIT Battleship'
+User inputs 'G8'
+AI outputs 'J7'
+User inputs 'MISS'
+User inputs 'C8'
+AI outputs 'F7'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'C9'
+AI outputs 'C3'
+User inputs 'HIT Submarine'
+User inputs 'B8'
+AI outputs 'B3'
+User inputs 'HIT Submarine'
+User inputs 'C7'
+AI outputs 'A3'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'D3'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'E8'
+AI outputs 'C8'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'D9'
+User inputs 'MISS'
+User inputs 'J6'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'J7'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'J5'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'J4'
+AI outputs 'E10'
+User inputs 'MISS'
+User inputs 'J3'
+AI outputs 'E1'
+User inputs 'HIT Cruiser'
+User inputs 'J1'
+AI outputs 'E2'
+User inputs 'MISS'
+User inputs 'E1'
+AI outputs 'D1'
+User inputs 'HIT Cruiser'
+User inputs 'A5'
+AI outputs 'C1'
+User inputs 'MISS'
+User inputs 'A10'
+AI outputs 'F1'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'F10'
+AI outputs 'A7'
+User inputs 'HIT Carrier'
+User inputs 'H9'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'H10'
+AI outputs 'B7'
+User inputs 'HIT Carrier'
+User inputs 'G9'
+AI outputs 'C7'
+User inputs 'HIT Carrier'
+User inputs 'H8'
+AI outputs 'D7'
+User inputs 'HIT Carrier'
+User inputs 'H3'
+AI outputs 'E7'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'I2'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'C5'
+User inputs 'HIT Destroyer'
+User inputs 'H5'
+AI outputs 'B5'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'C4'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'C6'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., M, ., ., ., C, M, ., .]
+B[., ., S, ., M, M, C, ., M, .]
+C[M, ., S, M, D, D, C, M, ., .]
+D[c, ., S, M, ., ., C, ., M, .]
+E[c, M, ., ., M, ., C, ., ., M]
+F[c, M, ., ., ., M, B, ., ., .]
+G[., ., M, ., ., ., B, M, ., .]
+H[., ., ., M, ., ., B, ., ., .]
+I[., ., ., ., ., ., B, ., ., .]
+J[., ., ., ., ., ., M, ., ., .]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., M, ., ., ., ., M]
+B[., ., M, ., ., M, ., M, ., .]
+C[., ., ., M, ., ., M, c, M, .]
+D[., C, ., ., M, ., M, c, ., .]
+E[M, ., ., ., ., M, ., c, ., .]
+F[., ., ., ., M, ., M, ., ., M]
+G[., ., ., M, ., ., ., M, M, .]
+H[., ., M, ., M, ., ., S, S, S]
+I[., M, ., ., ., M, ., ., ., .]
+J[M, ., B, B, B, B, M, ., ., .]
+Computer won the game in 36 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, ., ., ., ., ., ., X, .]
+B[., X, ., ., ., ., ., ., X, .]
+C[., ., ., ., ., ., ., ., X, .]
+D[., ., ., X, X, X, X, X, ., .]
+E[., ., ., ., ., ., ., ., ., .]
+F[., ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., .]
+H[X, ., ., ., ., ., ., ., ., .]
+I[X, ., ., ., X, X, X, X, ., .]
+J[X, ., ., ., ., ., ., ., ., .]
+User inputs 'I3'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'A4'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'H4'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[X, X, X, ., ., ., X, X, ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., X, ., X, ., ., ., ., ., .]
+D[., X, ., X, ., ., ., ., ., .]
+E[., X, ., X, ., ., ., X, ., .]
+F[., X, ., X, ., ., ., X, ., .]
+G[., X, ., ., ., ., ., X, ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'I3'
+AI outputs 'E5'
+User inputs 'MISS'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., X, X, X, X, ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., X, ., ., .]
+G[X, ., ., ., ., ., X, ., ., .]
+H[X, ., ., ., ., ., X, ., ., .]
+I[., ., ., ., ., ., X, ., ., .]
+J[X, X, X, ., ., ., X, ., ., .]
+User inputs 'F1'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D3'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'C6'
+AI outputs 'C7'
+User inputs 'HIT Submarine'
+User inputs 'B2'
+AI outputs 'B7'
+User inputs 'MISS'
+User inputs 'H9'
+AI outputs 'C8'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[X, X, X, X, ., ., ., ., ., .]
+B[., X, ., ., ., ., ., ., ., .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., X, ., .]
+F[., ., ., ., ., ., ., X, ., .]
+G[., ., ., ., ., ., ., X, ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[X, X, X, X, X, X, X, ., ., .]
+User inputs 'A1'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'A4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'A7'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'C3'
+User inputs 'HIT Cruiser'
+User inputs 'C2'
+AI outputs 'C2'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'B3'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'C4'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'D3'
+User inputs 'HIT Cruiser'
+User inputs 'B9'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'B8'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'I5'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., X]
+B[., ., ., ., ., ., ., ., ., X]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., X, .]
+E[., ., ., ., ., ., X, ., X, .]
+F[., ., ., ., ., ., X, ., X, .]
+G[., ., ., ., ., ., X, ., X, .]
+H[., ., ., ., ., ., X, ., ., .]
+I[., ., ., ., ., ., X, ., X, .]
+J[., ., ., X, X, X, ., ., X, .]
+User inputs 'A1'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'D4'
+User inputs 'HIT Battleship'
+User inputs 'A7'
+AI outputs 'C4'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'D3'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'D5'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'E4'
+User inputs 'HIT Battleship'
+User inputs 'B6'
+AI outputs 'F4'
+User inputs 'HIT Battleship'
+User inputs 'B8'
+AI outputs 'G4'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'B10'
+AI outputs 'H7'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'E8'
+User inputs 'MISS'
+User inputs 'C10'
+AI outputs 'C7'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[X, ., ., ., ., ., ., ., ., .]
+C[X, ., ., ., X, ., ., ., ., .]
+D[., ., ., ., X, ., ., ., ., .]
+E[., ., ., ., X, ., ., ., ., .]
+F[., ., ., ., ., ., ., ., X, .]
+G[., ., ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., X, .]
+I[X, X, X, X, X, ., ., ., ., .]
+J[., ., ., ., ., X, X, X, X, .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'A7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'B10'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'D1'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'E1'
+User inputs 'HIT Carrier'
+User inputs 'C7'
+AI outputs 'E2'
+User inputs 'MISS'
+User inputs 'C10'
+AI outputs 'D1'
+User inputs 'HIT Carrier'
+User inputs 'D3'
+AI outputs 'F1'
+User inputs 'HIT Carrier'
+User inputs 'D6'
+AI outputs 'G1'
+User inputs 'MISS'
+User inputs 'D9'
+AI outputs 'C1'
+User inputs 'HIT Carrier'
+User inputs 'E2'
+AI outputs 'B1'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'E5'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'I9'
+User inputs 'HIT Destroyer'
+User inputs 'E4'
+AI outputs 'J9'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'F5'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'C5'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'E8'
+AI outputs 'C10'
+User inputs 'HIT Submarine'
+User inputs 'F1'
+AI outputs 'B10'
+User inputs 'HIT Submarine'
+User inputs 'F4'
+AI outputs 'A10'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'D10'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'F10'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'J3'
+User inputs 'HIT Battleship'
+User inputs 'G6'
+AI outputs 'I3'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'J2'
+User inputs 'HIT Battleship'
+User inputs 'G10'
+AI outputs 'J1'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'J4'
+User inputs 'HIT Battleship'
+User inputs 'H9'
+AI outputs 'J5'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'I9'
+AI outputs 'A2'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'F3'
+User inputs 'HIT Cruiser'
+User inputs 'I1'
+AI outputs 'F4'
+User inputs 'HIT Cruiser'
+User inputs 'I2'
+AI outputs 'F5'
+User inputs 'HIT, SUNK Cruiser'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., M, ., ., M, ., ., M, ., M]
+B[C, ., ., M, ., M, ., ., M, S]
+C[C, ., M, ., M, ., M, ., ., S]
+D[C, ., ., M, ., M, ., M, ., S]
+E[C, M, ., ., M, ., M, ., M, .]
+F[C, M, c, c, c, M, ., ., ., M]
+G[M, ., M, ., ., ., M, ., ., .]
+H[., ., ., M, ., ., ., M, ., .]
+I[., M, M, ., M, ., ., ., D, .]
+J[M, B, B, B, B, M, ., ., D, .]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, ., M, ., M, ., M, ., M, .]
+B[D, M, ., M, ., M, ., M, ., M]
+C[D, M, ., M, c, ., M, ., ., M]
+D[M, ., M, ., c, M, ., ., M, .]
+E[., M, ., M, c, M, ., M, M, .]
+F[M, ., ., M, M, ., M, ., S, M]
+G[., ., M, ., ., M, ., M, S, M]
+H[., M, ., ., M, ., ., M, S, .]
+I[C, C, ., ., ., ., ., ., M, .]
+J[., ., ., ., ., ., ., ., ., .]
+Computer won the game in 47 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., X, X, ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[X, ., ., ., ., ., ., ., ., .]
+D[X, ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., X, X, X, .]
+G[X, ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., ., ., ., ., ., ., ., X]
+J[., X, X, X, ., ., ., ., ., X]
+User inputs 'A1'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'F6'
+User inputs 'HIT Cruiser'
+User inputs 'D6'
+AI outputs 'F7'
+User inputs 'HIT Cruiser'
+User inputs 'A9'
+AI outputs 'F8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'H10'
+AI outputs 'D4'
+User inputs 'HIT Battleship'
+User inputs 'I3'
+AI outputs 'C4'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'D3'
+User inputs 'HIT Destroyer'
+User inputs 'J6'
+AI outputs 'D2'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., .]
+F[., X, ., ., X, ., ., ., ., .]
+G[., X, ., ., X, ., ., ., ., X]
+H[., X, ., ., X, ., ., ., ., X]
+I[., X, ., ., ., ., ., ., ., X]
+J[., ., ., ., X, X, X, X, X, .]
+User inputs 'E4'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'F6'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[X, X, X, ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., ., .]
+G[., X, ., X, X, X, X, ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., X, X]
+J[., X, X, X, X, X, ., ., ., .]
+User inputs 'H8'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'J6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'I1'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'C7'
+User inputs 'HIT Submarine'
+User inputs 'E9'
+AI outputs 'B7'
+User inputs 'HIT Carrier'
+User inputs 'I5'
+AI outputs 'A7'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'D7'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'C8'
+User inputs 'MISS'
+User inputs 'I7'
+AI outputs 'C6'
+User inputs 'HIT Submarine'
+User inputs 'E1'
+AI outputs 'B6'
+User inputs 'HIT Carrier'
+User inputs 'F8'
+AI outputs 'B5'
+User inputs 'HIT Carrier'
+User inputs 'A3'
+AI outputs 'C5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'G9'
+AI outputs 'B4'
+User inputs 'HIT Carrier'
+User inputs 'J8'
+AI outputs 'B3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'D8'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'J4'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'G1'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'B10'
+AI outputs 'C2'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'D10'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'H10'
+AI outputs 'I2'
+User inputs 'HIT Battleship'
+User inputs 'J10'
+AI outputs 'I1'
+User inputs 'HIT Battleship'
+User inputs 'B8'
+AI outputs 'I3'
+User inputs 'HIT Battleship'
+User inputs 'J2'
+AI outputs 'I4'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'G5'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'G9'
+User inputs 'MISS'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[X, X, X, ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., X, .]
+C[X, ., ., ., ., ., ., ., X, .]
+D[X, ., ., ., ., ., ., ., X, .]
+E[X, ., ., ., ., ., ., ., X, .]
+F[X, ., ., ., ., ., ., ., X, .]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., X, ., ., ., ., ., ., ., .]
+J[., X, ., ., ., X, X, X, ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'D4'
+User inputs 'HIT Destroyer'
+User inputs 'D4'
+AI outputs 'C4'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'G7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'A5'
+User inputs 'HIT Carrier'
+User inputs 'D9'
+AI outputs 'B5'
+User inputs 'HIT Submarine'
+User inputs 'C9'
+AI outputs 'C5'
+User inputs 'HIT Submarine'
+User inputs 'B9'
+AI outputs 'D5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'A5'
+AI outputs 'A6'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'A4'
+User inputs 'HIT Carrier'
+User inputs 'H8'
+AI outputs 'A3'
+User inputs 'HIT Carrier'
+User inputs 'I9'
+AI outputs 'A2'
+User inputs 'HIT Carrier'
+User inputs 'J10'
+AI outputs 'A1'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'I5'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'E1'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'F1'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'G1'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'D1'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'D3'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'B2'
+User inputs 'HIT Battleship'
+User inputs 'I1'
+AI outputs 'C2'
+User inputs 'HIT Cruiser'
+User inputs 'H2'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'J2'
+AI outputs 'B1'
+User inputs 'HIT Battleship'
+User inputs 'J6'
+AI outputs 'C1'
+User inputs 'HIT Cruiser'
+User inputs 'J7'
+AI outputs 'B3'
+User inputs 'HIT Battleship'
+User inputs 'I7'
+AI outputs 'C3'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'I6'
+AI outputs 'B4'
+User inputs 'HIT, SUNK Battleship'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[C, C, C, C, C, M, ., ., ., .]
+B[B, B, B, B, S, M, ., ., M, .]
+C[c, c, c, D, S, ., M, ., ., M]
+D[., M, M, D, S, ., ., M, ., .]
+E[M, ., ., ., M, ., ., ., M, .]
+F[., M, ., ., ., M, ., ., ., M]
+G[., ., M, ., ., ., M, ., ., .]
+H[M, ., ., M, ., ., ., M, ., .]
+I[., M, ., ., M, ., ., ., M, .]
+J[., ., M, ., ., M, ., ., ., .]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[S, S, S, ., M, ., ., ., ., .]
+B[., M, ., ., ., M, ., ., C, .]
+C[B, ., M, ., ., ., M, ., C, .]
+D[B, ., ., M, ., ., ., M, C, .]
+E[B, ., ., ., M, ., ., ., C, .]
+F[B, M, ., ., ., M, ., ., C, .]
+G[M, ., M, ., ., ., M, ., M, .]
+H[., M, ., M, ., ., ., M, ., .]
+I[M, D, M, ., M, M, M, ., M, .]
+J[., D, ., ., ., c, c, ., ., M]
+Computer won the game in 41 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., X, X, ., X]
+B[., ., ., ., ., ., ., ., ., X]
+C[., ., X, ., ., ., ., ., ., X]
+D[., ., X, ., ., ., ., ., ., X]
+E[., ., X, ., X, ., ., ., ., .]
+F[., ., ., ., X, ., ., ., ., .]
+G[., ., ., ., X, ., ., ., ., .]
+H[., ., ., ., X, ., X, X, X, .]
+I[., ., ., ., X, ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'D3'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'B2'
+User inputs 'HIT Carrier'
+User inputs 'H6'
+AI outputs 'A2'
+User inputs 'HIT Carrier'
+User inputs 'H9'
+AI outputs 'C2'
+User inputs 'HIT Carrier'
+User inputs 'B6'
+AI outputs 'D2'
+User inputs 'HIT Carrier'
+User inputs 'G2'
+AI outputs 'E2'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'J4'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'F10'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'F1'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'A8'
+User inputs 'HIT Submarine'
+User inputs 'I3'
+AI outputs 'A7'
+User inputs 'HIT Submarine'
+User inputs 'A5'
+AI outputs 'A9'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'J8'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'B10'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'A10'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'C10'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'D10'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'J6'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'J2'
+AI outputs 'G9'
+User inputs 'MISS'
+User inputs 'I10'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'I1'
+AI outputs 'H10'
+User inputs 'HIT Cruiser'
+User inputs 'I7'
+AI outputs 'I10'
+User inputs 'HIT Cruiser'
+User inputs 'H2'
+AI outputs 'J10'
+User inputs 'HIT Battleship'
+User inputs 'G3'
+AI outputs 'G10'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'E6'
+AI outputs 'J9'
+User inputs 'HIT Battleship'
+User inputs 'E2'
+AI outputs 'J8'
+User inputs 'HIT Battleship'
+User inputs 'B1'
+AI outputs 'J7'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'D1'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'A7'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'A6'
+AI outputs 'A3'
+User inputs 'MISS'
+User inputs 'A8'
+AI outputs 'B1'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., M, M, D, D, ., B]
+B[M, ., M, ., ., M, ., M, ., B]
+C[., M, S, M, ., ., M, ., ., B]
+D[M, ., S, ., M, ., ., M, ., B]
+E[., M, S, ., C, M, ., ., M, .]
+F[M, ., ., M, C, ., M, ., ., M]
+G[., M, M, ., C, ., ., M, M, .]
+H[., M, ., M, C, M, c, c, c, .]
+I[M, ., M, ., C, ., M, ., ., M]
+J[., M, ., M, ., M, ., M, ., .]
+User won the game in 51 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., X, X, X, X, X, ., X, X, .]
+C[., ., ., ., ., ., ., ., ., .]
+D[X, ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., X, .]
+G[., ., ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., X, .]
+I[., ., X, X, X, ., ., ., X, .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'H9'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'B6'
+AI outputs 'F9'
+User inputs 'MISS'
+User inputs 'B10'
+AI outputs 'G10'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'E10'
+User inputs 'HIT Carrier'
+User inputs 'A3'
+AI outputs 'D10'
+User inputs 'HIT Carrier'
+User inputs 'A5'
+AI outputs 'C10'
+User inputs 'HIT Carrier'
+User inputs 'A7'
+AI outputs 'B10'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'A9'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'J1'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'J3'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'J5'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'J7'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'H1'
+AI outputs 'H1'
+User inputs 'HIT Battleship'
+User inputs 'F1'
+AI outputs 'G1'
+User inputs 'HIT Battleship'
+User inputs 'E1'
+AI outputs 'I1'
+User inputs 'HIT Battleship'
+User inputs 'D1'
+AI outputs 'J1'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'H4'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'I4'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'G2'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'D10'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'C5'
+AI outputs 'A3'
+User inputs 'HIT Cruiser'
+User inputs 'E7'
+AI outputs 'A2'
+User inputs 'HIT Cruiser'
+User inputs 'E9'
+AI outputs 'A1'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'C7'
+AI outputs 'J8'
+User inputs 'HIT Destroyer'
+User inputs 'E3'
+AI outputs 'J9'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'E2'
+AI outputs 'B1'
+User inputs 'MISS'
+User inputs 'I10'
+AI outputs 'E8'
+User inputs 'MISS'
+User inputs 'G10'
+AI outputs 'H10'
+User inputs 'HIT Submarine'
+User inputs 'B8'
+AI outputs 'H9'
+User inputs 'MISS'
+User inputs 'A8'
+AI outputs 'I10'
+User inputs 'HIT Submarine'
+User inputs 'B7'
+AI outputs 'J10'
+User inputs 'HIT, SUNK Submarine'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[c, c, c, ., M, ., ., M, ., .]
+B[M, M, ., M, ., M, ., ., M, C]
+C[., ., M, ., M, ., M, ., ., C]
+D[., M, ., M, ., M, ., M, ., C]
+E[M, ., M, ., M, ., M, M, M, C]
+F[., M, ., M, ., M, ., ., M, C]
+G[B, ., M, ., M, ., M, ., ., M]
+H[B, ., ., M, ., M, ., M, M, S]
+I[B, M, ., ., M, ., M, ., M, S]
+J[B, ., M, ., ., M, ., D, D, S]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, ., M, ., M, ., M, M, M, .]
+B[., C, C, C, C, C, M, D, ., M]
+C[., M, M, ., M, ., M, ., ., .]
+D[c, ., ., M, ., M, ., M, ., M]
+E[c, M, M, ., M, ., M, ., M, .]
+F[c, ., M, ., ., M, ., ., B, .]
+G[., M, ., M, ., ., M, ., B, M]
+H[M, ., ., M, ., ., ., M, B, .]
+I[., M, S, S, S, M, ., ., B, M]
+J[M, ., M, ., M, ., M, ., M, .]
+Computer won the game in 55 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, ., ., ., ., ., ., ., .]
+B[., X, ., ., ., ., ., ., ., .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., X, .]
+F[., ., ., ., ., ., ., ., X, .]
+G[., ., ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., X, X, X, ., ., ., ., X]
+J[., ., ., ., ., X, X, X, X, .]
+User inputs 'A1'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'A7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'B10'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'E9'
+User inputs 'HIT Carrier'
+User inputs 'C2'
+AI outputs 'E10'
+User inputs 'HIT Carrier'
+User inputs 'D2'
+AI outputs 'E8'
+User inputs 'HIT Carrier'
+User inputs 'E2'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'F2'
+AI outputs 'E6'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'C1'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'C5'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'D10'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'I2'
+User inputs 'HIT Battleship'
+User inputs 'G1'
+AI outputs 'I1'
+User inputs 'HIT Battleship'
+User inputs 'E1'
+AI outputs 'I3'
+User inputs 'HIT Battleship'
+User inputs 'E5'
+AI outputs 'I4'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'E7'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'F9'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'G10'
+User inputs 'MISS'
+User inputs 'F10'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'F8'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'H10'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'G10'
+AI outputs 'J3'
+User inputs 'HIT Destroyer'
+User inputs 'I10'
+AI outputs 'J2'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'J4'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'H6'
+AI outputs 'A1'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'J8'
+User inputs 'HIT Cruiser'
+User inputs 'I1'
+AI outputs 'I8'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'J7'
+User inputs 'HIT Cruiser'
+User inputs 'H3'
+AI outputs 'J9'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'I2'
+AI outputs 'A2'
+User inputs 'MISS'
+User inputs 'I4'
+AI outputs 'B1'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'D5'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'H10'
+User inputs 'HIT Submarine'
+User inputs 'J8'
+AI outputs 'H9'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'I10'
+User inputs 'HIT Submarine'
+User inputs 'J7'
+AI outputs 'J10'
+User inputs 'HIT, SUNK Submarine'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, M, ., ., M, ., ., M, ., .]
+B[M, M, ., M, ., M, ., ., M, .]
+C[., ., M, ., M, ., M, ., ., M]
+D[., M, ., M, M, ., ., M, ., .]
+E[M, ., M, ., M, C, C, C, C, C]
+F[., M, ., M, ., M, ., ., M, .]
+G[., ., M, ., M, ., M, ., ., M]
+H[M, ., ., M, ., M, ., M, M, S]
+I[B, B, B, B, M, ., M, M, M, S]
+J[., M, D, D, ., M, c, c, c, S]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, C, M, ., M, ., M, ., M, .]
+B[., C, ., M, ., M, ., M, ., M]
+C[M, C, M, ., M, ., M, ., M, .]
+D[., C, ., M, ., M, ., M, ., M]
+E[M, C, M, ., M, ., M, ., c, .]
+F[., M, ., M, ., M, ., M, c, M]
+G[M, ., M, ., M, ., M, ., c, M]
+H[., M, M, M, ., M, ., M, ., D]
+I[M, M, S, S, S, ., ., ., ., D]
+J[., ., ., ., ., ., B, B, B, M]
+Computer won the game in 56 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., X, ., X, X, X, X, X, X, X]
+C[., X, ., ., ., ., ., ., ., X]
+D[., X, ., ., ., ., ., ., ., X]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., X, X, X, ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'A10'
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'B10'
+AI outputs 'E6'
+User inputs 'HIT Carrier'
+User inputs 'C10'
+AI outputs 'E4'
+User inputs 'HIT Carrier'
+User inputs 'D10'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'E10'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'F10'
+AI outputs 'D8'
+User inputs 'HIT Battleship'
+User inputs 'G10'
+AI outputs 'C8'
+User inputs 'HIT Battleship'
+User inputs 'H10'
+AI outputs 'B8'
+User inputs 'HIT Battleship'
+User inputs 'I10'
+AI outputs 'A8'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'J10'
+AI outputs 'G8'
+User inputs 'HIT Cruiser'
+User inputs 'J9'
+AI outputs 'H8'
+User inputs 'HIT Cruiser'
+User inputs 'J8'
+AI outputs 'F8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'J7'
+AI outputs 'H3'
+User inputs 'HIT Submarine'
+User inputs 'J6'
+AI outputs 'H4'
+User inputs 'HIT Submarine'
+User inputs 'J5'
+AI outputs 'H5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'J4'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'J3'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'J2'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'J1'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'I8'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'I7'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'G6'
+User inputs 'MISS'
+User inputs 'I4'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'I6'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'I1'
+AI outputs 'A3'
+User inputs 'MISS'
+User inputs 'H1'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'G1'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'F1'
+AI outputs 'C1'
+User inputs 'MISS'
+User inputs 'E1'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'D1'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'A4'
+AI outputs 'G1'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'A6'
+AI outputs 'G9'
+User inputs 'MISS'
+User inputs 'A7'
+AI outputs 'H7'
+User inputs 'MISS'
+User inputs 'A8'
+AI outputs 'H10'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'I4'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'J5'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'J7'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'A1'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'A7'
+User inputs 'MISS'
+User inputs 'E2'
+AI outputs 'A10'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'D9'
+User inputs 'MISS'
+User inputs 'G2'
+AI outputs 'F5'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'F7'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'B7'
+AI outputs 'I8'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'J1'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'J9'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'D10'
+User inputs 'MISS'
+User inputs 'H3'
+AI outputs 'G2'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'G4'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'I10'
+User inputs 'HIT Destroyer'
+User inputs 'H6'
+AI outputs 'J10'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, ., M, ., M, ., M, B, ., M]
+B[., M, ., M, ., M, ., B, M, .]
+C[M, ., M, ., M, ., M, B, ., M]
+D[., M, ., M, ., M, ., B, M, M]
+E[M, ., C, C, C, C, C, ., M, .]
+F[., M, ., M, M, ., M, c, ., M]
+G[M, M, M, M, ., M, ., c, M, .]
+H[M, ., S, S, S, ., M, c, ., M]
+I[., M, ., M, ., M, ., M, M, D]
+J[M, ., M, ., M, ., M, ., M, D]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, M, M, M, M, M, M, M, M, M]
+B[M, C, M, B, B, B, B, D, ., c]
+C[M, C, ., ., ., ., M, ., ., c]
+D[M, C, ., ., ., ., ., ., ., c]
+E[M, C, ., ., ., ., ., ., ., M]
+F[M, C, ., ., ., ., ., ., ., M]
+G[M, M, ., ., ., ., ., ., ., M]
+H[M, M, M, M, M, M, ., ., ., M]
+I[M, S, S, S, M, M, M, M, M, M]
+J[M, M, M, M, M, M, M, M, M, M]
+Computer won the game in 62 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, X, X, X, X, ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., ., .]
+G[., X, ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., ., X, X, X, ., ., ., X]
+J[., ., ., ., ., ., ., X, X, X]
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'J10'
+AI outputs 'E6'
+User inputs 'HIT Carrier'
+User inputs 'J9'
+AI outputs 'E4'
+User inputs 'HIT Carrier'
+User inputs 'J8'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'I10'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'H10'
+AI outputs 'D8'
+User inputs 'HIT Cruiser'
+User inputs 'G10'
+AI outputs 'C8'
+User inputs 'HIT Cruiser'
+User inputs 'F10'
+AI outputs 'B8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'J6'
+AI outputs 'G8'
+User inputs 'HIT Submarine'
+User inputs 'J7'
+AI outputs 'G9'
+User inputs 'HIT Submarine'
+User inputs 'J5'
+AI outputs 'G7'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'J4'
+AI outputs 'D2'
+User inputs 'HIT Destroyer'
+User inputs 'J3'
+AI outputs 'D1'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'J2'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'E10'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'D10'
+AI outputs 'A4'
+User inputs 'MISS'
+User inputs 'C10'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'B10'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'A10'
+AI outputs 'G2'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'A8'
+AI outputs 'A7'
+User inputs 'MISS'
+User inputs 'A7'
+AI outputs 'B3'
+User inputs 'MISS'
+User inputs 'A6'
+AI outputs 'C4'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'C9'
+User inputs 'MISS'
+User inputs 'A4'
+AI outputs 'D5'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'F1'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'H7'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'B10'
+User inputs 'MISS'
+User inputs 'D1'
+AI outputs 'I1'
+User inputs 'MISS'
+User inputs 'E1'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'F1'
+AI outputs 'J2'
+User inputs 'HIT Battleship'
+User inputs 'G1'
+AI outputs 'I2'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., X, X, X, X, X, ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[X, ., ., ., ., ., ., ., X, .]
+I[., X, X, X, ., ., X, X, X, .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'A10'
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'B10'
+AI outputs 'E6'
+User inputs 'HIT Carrier'
+User inputs 'C10'
+AI outputs 'E4'
+User inputs 'HIT Carrier'
+User inputs 'D10'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'E10'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'F10'
+AI outputs 'D8'
+User inputs 'HIT Destroyer'
+User inputs 'G10'
+AI outputs 'C8'
+User inputs 'HIT, SUNK Destroyer'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., X, X, ., .]
+B[., ., ., ., ., ., ., ., ., X]
+C[X, ., ., ., ., ., ., ., ., X]
+D[X, ., ., ., ., ., ., ., ., X]
+E[X, ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., X, X, X, X, X, ., ., X]
+J[., ., ., ., ., ., ., ., ., X]
+User inputs 'A1'
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'A2'
+AI outputs 'E6'
+User inputs 'HIT Carrier'
+User inputs 'A3'
+AI outputs 'E4'
+User inputs 'HIT Carrier'
+User inputs 'A4'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'A5'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'A6'
+AI outputs 'D8'
+User inputs 'HIT Battleship'
+User inputs 'A7'
+AI outputs 'C8'
+User inputs 'HIT Battleship'
+User inputs 'A8'
+AI outputs 'B8'
+User inputs 'HIT Battleship'
+User inputs 'A9'
+AI outputs 'A8'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'A10'
+AI outputs 'G8'
+User inputs 'HIT Cruiser'
+User inputs 'B10'
+AI outputs 'H8'
+User inputs 'HIT Cruiser'
+User inputs 'C10'
+AI outputs 'F8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'D10'
+AI outputs 'H3'
+User inputs 'HIT Destroyer'
+User inputs 'E10'
+AI outputs 'H4'
+User inputs 'HIT, SUNK Destroyer'
+User inputs 'F10'
+AI outputs 'B3'
+User inputs 'MISS'
+User inputs 'G10'
+AI outputs 'C2'
+User inputs 'MISS'
+User inputs 'H10'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'I10'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'I6'
+User inputs 'MISS'
+User inputs 'J8'
+AI outputs 'A4'
+User inputs 'MISS'
+User inputs 'J7'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'J6'
+AI outputs 'D1'
+User inputs 'MISS'
+User inputs 'J5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'J4'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'J3'
+AI outputs 'G1'
+User inputs 'MISS'
+User inputs 'J2'
+AI outputs 'H7'
+User inputs 'MISS'
+User inputs 'J1'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'I1'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'J5'
+User inputs 'MISS'
+User inputs 'H1'
+AI outputs 'C10'
+User inputs 'HIT Submarine'
+User inputs 'G1'
+AI outputs 'C9'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., X, .]
+B[., X, ., ., ., ., ., ., X, .]
+C[., X, ., ., ., ., ., ., X, .]
+D[., X, ., ., ., ., ., ., X, .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., X, .]
+G[., ., ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., ., ., ., ., ., ., ., X]
+J[., ., ., ., X, X, X, ., ., X]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E2'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'I10'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'H10'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'G9'
+User inputs 'F9'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., X, .]
+B[., X, ., ., ., ., ., ., X, .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[X, X, X, X, ., ., ., ., ., X]
+J[., ., ., ., ., X, X, X, ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E2'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'D8'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[X, ., X, X, X, X, X, ., ., .]
+B[X, ., ., ., ., ., ., ., ., .]
+C[X, ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., X, .]
+I[X, X, X, ., ., ., ., ., X, .]
+J[., ., ., ., ., ., ., ., X, .]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'H9'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'C7'
+AI outputs 'J6'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., X, X, X, X, X, ., .]
+B[X, ., ., ., ., ., ., ., ., .]
+C[X, ., ., ., ., ., ., ., ., .]
+D[X, ., ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., ., X, .]
+F[., X, ., ., ., ., ., ., X, .]
+G[., X, ., ., ., ., ., ., X, .]
+H[., X, ., ., ., ., ., ., ., .]
+I[., X, ., ., ., ., ., ., X, X]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'I10'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'F8'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'G9'
+AI outputs 'F9'
+User inputs 'HIT Carrier'
+User inputs 'H9'
+AI outputs 'F8'
+User inputs 'HIT Carrier'
+User inputs 'F9'
+AI outputs 'F7'
+User inputs 'HIT Carrier'
+User inputs 'E9'
+AI outputs 'G9'
+User inputs 'HIT, SUNK Carrier'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[X, X, X, ., ., ., ., ., X, .]
+C[., ., ., ., ., ., ., ., X, .]
+D[., ., ., ., ., ., ., ., X, .]
+E[., ., ., ., ., ., ., ., X, .]
+F[., ., ., ., ., ., ., ., X, .]
+G[., X, ., ., ., ., ., ., ., .]
+H[., X, ., ., ., ., ., ., ., .]
+I[., X, X, X, ., ., ., ., ., .]
+J[., ., ., ., X, X, X, X, ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'A1'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'H4'
+AI outputs 'F9'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'G10'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'E10'
+User inputs 'HIT Carrier'
+User inputs 'H3'
+AI outputs 'D10'
+User inputs 'HIT Carrier'
+User inputs 'I4'
+AI outputs 'C10'
+User inputs 'HIT Carrier'
+User inputs 'G8'
+AI outputs 'B10'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'D2'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'D9'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'E8'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'H1'
+User inputs 'HIT Battleship'
+User inputs 'E1'
+AI outputs 'G1'
+User inputs 'HIT Battleship'
+User inputs 'E3'
+AI outputs 'I1'
+User inputs 'HIT Battleship'
+User inputs 'F2'
+AI outputs 'J1'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'G1'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'J2'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'G2'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'J4'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'I1'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'J6'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'J5'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'J7'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'J8'
+AI outputs 'A3'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, ., ., ., ., ., ., ., ., .]
+B[c, c, c, M, ., ., ., ., C, .]
+C[., ., M, ., ., ., ., ., C, .]
+D[., M, ., M, ., ., ., M, C, .]
+E[M, ., M, ., M, ., M, M, C, .]
+F[., M, ., M, ., M, ., ., C, .]
+G[M, S, M, ., M, ., M, M, ., .]
+H[., S, M, M, ., ., ., M, ., .]
+I[M, S, D, D, ., ., ., ., M, .]
+J[., M, ., M, B, B, B, B, ., M]
+User won the game in 44 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[X, X, X, ., X, X, X, X, X, .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., X, .]
+D[., ., ., ., ., ., ., ., X, .]
+E[., ., ., ., ., ., ., ., X, .]
+F[., ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[X, ., ., ., ., ., ., ., ., X]
+J[X, ., ., ., ., ., ., ., ., X]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'D7'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'C5'
+AI outputs 'F9'
+User inputs 'MISS'
+User inputs 'C6'
+AI outputs 'G10'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'E10'
+User inputs 'HIT Carrier'
+User inputs 'D8'
+AI outputs 'D10'
+User inputs 'HIT Carrier'
+User inputs 'E8'
+AI outputs 'C10'
+User inputs 'HIT Carrier'
+User inputs 'F8'
+AI outputs 'B10'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'G8'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'C8'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'D3'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'H1'
+User inputs 'HIT Battleship'
+User inputs 'G3'
+AI outputs 'G1'
+User inputs 'HIT Battleship'
+User inputs 'H3'
+AI outputs 'I1'
+User inputs 'HIT Battleship'
+User inputs 'H4'
+AI outputs 'J1'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'H5'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'B7'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'D9'
+AI outputs 'A3'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'C1'
+User inputs 'HIT Cruiser'
+User inputs 'F9'
+AI outputs 'B1'
+User inputs 'HIT Cruiser'
+User inputs 'G9'
+AI outputs 'A1'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'H9'
+AI outputs 'J8'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'I8'
+AI outputs 'H10'
+User inputs 'HIT Submarine'
+User inputs 'I7'
+AI outputs 'H9'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'I10'
+User inputs 'HIT Submarine'
+User inputs 'I5'
+AI outputs 'J10'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'I4'
+AI outputs 'G2'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'G4'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'G4'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'G4'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., X, X, X, ., ., .]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., X]
+F[X, ., ., ., ., ., ., ., ., X]
+G[X, ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., ., ., ., ., ., ., ., X]
+J[., ., ., ., ., X, X, X, X, X]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'D7'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'C5'
+AI outputs 'F9'
+User inputs 'HIT Carrier'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, X, X, X, ., X, X, X, .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., ., X, .]
+F[X, ., ., ., ., ., ., ., X, .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[X, ., ., ., ., ., ., ., X, .]
+I[., ., ., ., ., X, X, ., X, .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'D7'
+AI outputs 'F9'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., X, X, X, X, X, ., .]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., X]
+F[., ., ., ., ., ., ., ., ., X]
+G[., X, ., ., ., ., ., ., ., .]
+H[., X, ., ., ., ., ., ., X, .]
+I[., X, ., ., ., ., ., ., X, .]
+J[., ., ., X, X, ., ., ., X, .]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'I8'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'H9'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'J8'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'F8'
+AI outputs 'G10'
+User inputs 'HIT Carrier'
+User inputs 'E7'
+AI outputs 'E10'
+User inputs 'HIT Carrier'
+User inputs 'E6'
+AI outputs 'D10'
+User inputs 'HIT Carrier'
+User inputs 'E8'
+AI outputs 'C10'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'H4'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'C5'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'D7'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'H1'
+User inputs 'HIT Battleship'
+User inputs 'H6'
+AI outputs 'G1'
+User inputs 'HIT Battleship'
+User inputs 'H5'
+AI outputs 'I1'
+User inputs 'HIT Battleship'
+User inputs 'I7'
+AI outputs 'J1'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'D3'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'H3'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'I4'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'C6'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'A3'
+User inputs 'HIT Cruiser'
+User inputs 'D8'
+AI outputs 'A2'
+User inputs 'HIT Cruiser'
+User inputs 'C8'
+AI outputs 'A1'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'B4'
+AI outputs 'J8'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'C1'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'G9'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'H10'
+User inputs 'HIT Submarine'
+User inputs 'B6'
+AI outputs 'I10'
+User inputs 'HIT Submarine'
+User inputs 'B7'
+AI outputs 'J10'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'B8'
+AI outputs 'G2'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'A7'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'A10'
+User inputs 'MISS'
+User inputs 'D9'
+AI outputs 'B8'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'C9'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'H3'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'I4'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'J4'
+User inputs 'HIT Destroyer'
+User inputs 'G2'
+AI outputs 'J5'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[c, c, c, ., M, ., M, M, ., M]
+B[., M, ., M, ., M, ., M, M, .]
+C[M, ., M, ., M, ., M, ., M, C]
+D[., M, ., M, ., M, ., M, ., C]
+E[M, ., M, ., M, ., M, ., M, C]
+F[., M, ., M, ., M, ., M, ., C]
+G[B, M, M, ., M, ., M, ., M, C]
+H[B, ., M, M, ., M, ., M, ., S]
+I[B, M, ., M, M, ., M, ., M, S]
+J[B, ., M, D, D, M, ., M, ., S]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., M, C, C, C, C, C, M, .]
+C[., ., M, M, M, M, M, M, M, .]
+D[., ., M, M, M, M, M, M, M, .]
+E[., ., M, M, M, M, M, M, M, .]
+F[., ., M, M, M, M, M, M, M, .]
+G[., S, M, M, M, M, M, M, M, .]
+H[., S, M, M, M, M, M, M, c, .]
+I[., S, M, M, M, M, M, M, c, .]
+J[., ., ., ., ., ., ., M, c, .]
+Computer won the game in 61 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., X, ., ., X, ., .]
+E[., ., X, X, X, ., ., X, ., .]
+F[., ., X, X, ., ., X, X, ., .]
+G[., ., X, X, ., ., X, X, ., .]
+H[., ., ., X, ., ., X, X, ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'F5'
+AI outputs 'G1'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, X, X, ., ., ., ., ., .]
+B[., ., ., ., X, X, ., ., ., .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., X, .]
+G[., X, ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., X, .]
+I[., ., ., ., ., ., ., ., X, .]
+J[., ., ., ., X, X, X, ., ., .]
+User inputs 'C7'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'E8'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'H9'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'D9'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'I8'
+AI outputs 'A5'
+User inputs 'HIT Carrier'
+User inputs 'H8'
+AI outputs 'A4'
+User inputs 'HIT Carrier'
+User inputs 'I7'
+AI outputs 'A6'
+User inputs 'HIT Carrier'
+User inputs 'G8'
+AI outputs 'A7'
+User inputs 'HIT Carrier'
+User inputs 'F8'
+AI outputs 'A8'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'H6'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'E1'
+User inputs 'HIT Battleship'
+User inputs 'E5'
+AI outputs 'D1'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'F1'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'F10'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., X, X, X, X, X, ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., ., ., .]
+F[., ., ., ., ., ., ., ., ., X]
+G[X, ., ., ., ., ., ., ., ., X]
+H[X, ., ., ., ., ., ., ., ., X]
+I[X, X, X, X, ., ., ., X, X, .]
+J[X, ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[X, X, X, X, X, X, X, ., ., .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., ., ., ., ., ., ., ., ., .]
+G[., ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., ., ., ., ., ., ., ., .]
+J[X, X, X, X, X, ., ., ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., X, X, X, X, X, .]
+C[., ., ., ., ., ., ., ., ., X]
+D[., X, ., ., ., ., ., ., ., X]
+E[., X, ., ., ., ., ., ., ., X]
+F[., X, ., ., ., ., ., ., ., X]
+G[., ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., X, .]
+I[., ., ., ., ., ., ., ., X, .]
+J[X, X, X, ., ., ., ., ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., X, X, X, X, ., ., ., .]
+B[., ., ., ., ., ., ., ., ., X]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[X, ., ., ., ., ., ., ., X, .]
+I[X, ., X, X, X, ., ., ., ., .]
+J[X, ., ., ., ., ., ., ., ., .]
+User inputs 'E4'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'C7'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., X, X, X, ., .]
+B[., ., X, X, ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., X]
+E[., X, ., ., ., ., ., ., ., X]
+F[., X, ., ., ., ., ., ., ., X]
+G[., X, ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., X, X, X, X, X, ., ., .]
+User inputs 'F5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'F8'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'H3'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'F10'
+User inputs 'HIT Carrier'
+User inputs 'F3'
+AI outputs 'F9'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., X, X, X, X, ., X, .]
+C[., ., ., ., ., ., ., ., X, .]
+D[X, ., ., ., ., ., ., ., X, .]
+E[X, ., ., ., ., ., ., ., ., X]
+F[X, ., ., ., ., ., ., ., ., X]
+G[X, ., ., ., ., ., ., ., ., X]
+H[X, ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., X, X, ., ., ., ., ., .]
+User inputs 'F5'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., X, X, X, X, X, .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., ., X, .]
+F[X, ., ., ., ., ., ., ., X, .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[X, ., ., ., ., ., ., ., X, .]
+I[X, ., ., ., ., ., ., ., ., .]
+J[X, ., ., X, X, X, ., ., ., .]
+User inputs 'E5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'F6'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., X, X, X, ., ., ., ., ., .]
+C[X, ., ., ., ., ., ., ., ., .]
+D[X, ., ., ., ., ., ., ., X, .]
+E[X, ., ., ., ., ., ., ., X, .]
+F[X, ., ., ., ., ., ., ., X, .]
+G[X, ., ., ., ., ., ., ., ., .]
+H[X, ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., X, X, X, X, X, ., ., .]
+User inputs 'B5'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'I7'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'H9'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'D7'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'D1'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'I4'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'G2'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'D3'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'C1'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'F8'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'C10'
+User inputs 'HIT Cruiser'
+User inputs 'E9'
+AI outputs 'C9'
+User inputs 'HIT Cruiser'
+User inputs 'D9'
+AI outputs 'C8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'E6'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'I3'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'A1'
+User inputs 'HIT Carrier'
+User inputs 'A7'
+AI outputs 'A2'
+User inputs 'HIT Carrier'
+User inputs 'D5'
+AI outputs 'A3'
+User inputs 'HIT Carrier'
+User inputs 'E2'
+AI outputs 'A4'
+User inputs 'HIT Carrier'
+User inputs 'E8'
+AI outputs 'B4'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'C5'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'G9'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'H10'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'J8'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'C1'
+User inputs 'HIT Submarine'
+User inputs 'E3'
+AI outputs 'B1'
+User inputs 'HIT Submarine'
+User inputs 'D2'
+AI outputs 'D1'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'H3'
+AI outputs 'A7'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'A10'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'D10'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'G1'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'H2'
+User inputs 'HIT Destroyer'
+User inputs 'I2'
+AI outputs 'H3'
+User inputs 'MISS'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., X, X, X, X, X, X, X]
+C[., ., ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., .]
+E[., X, ., ., ., ., ., ., X, .]
+F[., X, ., ., ., ., ., ., X, .]
+G[., ., ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., X, .]
+I[., ., ., ., X, X, X, ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'E8'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'H3'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'D5'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'B2'
+User inputs 'HIT Carrier'
+User inputs 'E5'
+AI outputs 'A2'
+User inputs 'HIT Battleship'
+User inputs 'G4'
+AI outputs 'C2'
+User inputs 'HIT Carrier'
+User inputs 'D3'
+AI outputs 'D2'
+User inputs 'HIT Carrier'
+User inputs 'D7'
+AI outputs 'E2'
+User inputs 'HIT Carrier'
+User inputs 'E7'
+AI outputs 'B1'
+User inputs 'HIT, SUNK Carrier'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., X, .]
+B[X, X, X, ., ., ., ., ., X, .]
+C[., ., ., ., ., ., ., ., X, .]
+D[., ., ., ., ., ., ., ., X, .]
+E[., ., ., ., ., ., ., ., X, .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., ., .]
+H[X, ., ., ., ., ., ., ., ., .]
+I[., ., X, X, X, X, ., ., ., .]
+J[., ., ., ., ., ., X, X, ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F8'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'F7'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'B8'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'D7'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'C5'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'E2'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'H3'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'C6'
+AI outputs 'B2'
+User inputs 'HIT Carrier'
+User inputs 'E7'
+AI outputs 'A2'
+User inputs 'HIT Battleship'
+User inputs 'D6'
+AI outputs 'C2'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'B1'
+User inputs 'HIT Carrier'
+User inputs 'E6'
+AI outputs 'A1'
+User inputs 'HIT Battleship'
+User inputs 'E3'
+AI outputs 'B3'
+User inputs 'HIT Carrier'
+User inputs 'F4'
+AI outputs 'A3'
+User inputs 'HIT Battleship'
+User inputs 'D8'
+AI outputs 'B4'
+User inputs 'HIT Carrier'
+User inputs 'C3'
+AI outputs 'A4'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'D5'
+AI outputs 'B5'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'C4'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'E8'
+AI outputs 'A8'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'B7'
+AI outputs 'J3'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'D3'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'G2'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'H2'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'H5'
+AI outputs 'G9'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'H6'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'H10'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'J8'
+User inputs 'HIT Cruiser'
+User inputs 'I7'
+AI outputs 'J9'
+User inputs 'HIT Cruiser'
+User inputs 'I6'
+AI outputs 'J10'
+User inputs 'HIT Submarine'
+User inputs 'I5'
+AI outputs 'J7'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'I4'
+AI outputs 'I10'
+User inputs 'HIT Submarine'
+User inputs 'I8'
+AI outputs 'C5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'I3'
+AI outputs 'G2'
+User inputs 'HIT Destroyer'
+User inputs 'I2'
+AI outputs 'G1'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'H2'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[B, B, B, B, M, ., ., M, ., .]
+B[C, C, C, C, C, M, ., ., M, .]
+C[., M, M, ., S, ., M, ., ., M]
+D[., ., ., M, ., M, ., M, ., .]
+E[M, ., M, ., M, ., M, ., M, .]
+F[., M, ., M, ., M, ., M, ., M]
+G[M, D, M, ., M, ., M, ., M, .]
+H[M, D, ., M, ., M, ., M, ., M]
+I[., M, ., ., M, ., M, ., M, S]
+J[., ., M, ., ., M, c, c, c, S]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., M, M, M, M, M, ., .]
+C[., M, M, M, M, M, M, ., ., .]
+D[., M, M, M, M, M, M, M, ., .]
+E[., M, M, M, M, M, M, M, ., .]
+F[., M, M, M, M, M, M, M, ., .]
+G[., M, M, M, M, M, M, M, ., .]
+H[., M, M, M, M, M, M, M, ., .]
+I[., M, B, B, B, B, M, M, ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Computer won the game in 54 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[X, X, X, ., ., ., ., ., ., .]
+B[X, ., ., ., ., ., ., ., ., .]
+C[X, ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., X]
+F[., ., ., ., ., ., ., ., ., X]
+G[., ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., X, X, X, X, X, X, X, X]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., X, X, X, X, .]
+B[X, X, X, X, X, ., ., ., ., .]
+C[., ., ., ., ., ., ., ., X, .]
+D[., ., ., ., ., ., ., ., X, .]
+E[., X, ., ., ., ., ., ., ., .]
+F[., X, ., ., ., ., ., ., ., .]
+G[., X, ., ., ., ., ., ., X, .]
+H[., ., ., ., ., ., ., ., X, .]
+I[., ., ., ., ., ., ., ., X, .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'A5'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'C5'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'J4'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'A4'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'I9'
+User inputs 'HIT Carrier'
+User inputs 'F2'
+AI outputs 'I10'
+User inputs 'HIT Battleship'
+User inputs 'F7'
+AI outputs 'I8'
+User inputs 'MISS'
+User inputs 'D10'
+AI outputs 'J9'
+User inputs 'HIT Carrier'
+User inputs 'B1'
+AI outputs 'J10'
+User inputs 'HIT Battleship'
+User inputs 'J3'
+AI outputs 'H9'
+User inputs 'HIT Carrier'
+User inputs 'I8'
+AI outputs 'H10'
+User inputs 'HIT Battleship'
+User inputs 'I5'
+AI outputs 'G9'
+User inputs 'HIT Carrier'
+User inputs 'B3'
+AI outputs 'G10'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'J7'
+AI outputs 'F9'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'D5'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'F6'
+AI outputs 'I2'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'A8'
+User inputs 'HIT Submarine'
+User inputs 'I9'
+AI outputs 'A7'
+User inputs 'HIT Submarine'
+User inputs 'D7'
+AI outputs 'A9'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'J5'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'C9'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'H7'
+AI outputs 'J3'
+User inputs 'HIT Cruiser'
+User inputs 'D2'
+AI outputs 'I3'
+User inputs 'MISS'
+User inputs 'C10'
+AI outputs 'J4'
+User inputs 'HIT Cruiser'
+User inputs 'C1'
+AI outputs 'J2'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'J9'
+AI outputs 'G2'
+User inputs 'MISS'
+User inputs 'G5'
+AI outputs 'B4'
+User inputs 'HIT Destroyer'
+User inputs 'F3'
+AI outputs 'A4'
+User inputs 'MISS'
+User inputs 'G6'
+AI outputs 'B3'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., M, M, ., S, S, S, .]
+B[., M, D, D, ., M, ., ., M, .]
+C[., ., M, ., ., ., M, ., ., M]
+D[., ., ., M, ., ., ., M, ., .]
+E[M, ., ., ., M, ., ., ., M, .]
+F[., M, ., ., ., M, ., ., C, M]
+G[., M, M, ., ., ., M, ., C, B]
+H[M, ., ., M, ., ., ., M, C, B]
+I[., M, M, ., M, ., ., M, C, B]
+J[., c, c, c, ., M, ., ., C, B]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., M, M, ., ., ., ., .]
+B[C, ., C, C, C, M, ., ., ., .]
+C[M, ., ., ., M, ., M, ., D, M]
+D[., M, ., M, M, ., M, M, ., M]
+E[., ., M, ., ., M, ., ., ., .]
+F[., c, M, ., M, M, M, ., M, .]
+G[., ., M, ., M, M, M, ., S, .]
+H[., ., ., M, ., ., M, M, ., .]
+I[., ., ., ., M, M, ., M, S, .]
+J[., ., M, M, M, ., M, ., M, .]
+Computer won the game in 44 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., X]
+B[., ., ., ., ., ., ., ., ., X]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., X]
+F[., ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[X, ., ., ., ., ., ., ., X, .]
+I[X, ., X, X, X, ., X, X, X, .]
+J[X, ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'F8'
+AI outputs 'F2'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., X, X, X, X, X, ., ., X]
+B[., ., ., ., ., ., ., ., ., X]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., ., X]
+H[X, ., ., ., ., ., ., ., ., X]
+I[., ., ., ., ., ., ., ., ., X]
+J[., ., ., ., X, X, X, ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., X, X, X, ., ., ., .]
+B[., ., ., ., ., ., ., ., X, .]
+C[., ., ., ., ., ., ., ., X, .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., ., ., ., ., ., ., ., ., .]
+F[X, ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[X, ., ., ., ., ., ., ., X, .]
+I[., ., ., ., ., ., ., ., X, .]
+J[X, X, X, X, X, ., ., ., X, .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'G3'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'H4'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'C7'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'I6'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'H8'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E2'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'I5'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'J5'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'I5'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'J4'
+AI outputs 'J6'
+User inputs 'MISS'
+User inputs 'J3'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'J6'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'J2'
+AI outputs 'A8'
+User inputs 'HIT Cruiser'
+User inputs 'J1'
+AI outputs 'B8'
+User inputs 'MISS'
+User inputs 'F1'
+AI outputs 'A9'
+User inputs 'HIT Cruiser'
+User inputs 'E1'
+AI outputs 'A10'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'A7'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'G1'
+AI outputs 'H1'
+User inputs 'MISS'
+User inputs 'H1'
+AI outputs 'I2'
+User inputs 'HIT Battleship'
+User inputs 'E10'
+AI outputs 'J2'
+User inputs 'HIT Carrier'
+User inputs 'B9'
+AI outputs 'H2'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'I3'
+User inputs 'HIT Battleship'
+User inputs 'B8'
+AI outputs 'J3'
+User inputs 'HIT Carrier'
+User inputs 'B10'
+AI outputs 'J4'
+User inputs 'HIT Carrier'
+User inputs 'C9'
+AI outputs 'I4'
+User inputs 'HIT Battleship'
+User inputs 'A6'
+AI outputs 'I1'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'A5'
+AI outputs 'J1'
+User inputs 'HIT Carrier'
+User inputs 'A4'
+AI outputs 'J5'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'I10'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'J9'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'I9'
+AI outputs 'C9'
+User inputs 'HIT Destroyer'
+User inputs 'J8'
+AI outputs 'C10'
+User inputs 'MISS'
+User inputs 'J10'
+AI outputs 'B9'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'D9'
+User inputs 'HIT, SUNK Destroyer'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[X, X, ., X, ., ., ., ., ., .]
+C[., ., ., X, ., ., ., ., ., .]
+D[., ., ., X, ., ., ., ., ., .]
+E[., ., ., X, X, X, X, X, ., X]
+F[., ., ., X, ., ., ., ., ., X]
+G[., ., ., ., ., ., X, X, X, X]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'D8'
+AI outputs 'E3'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'E1'
+User inputs 'MISS'
+User inputs 'E5'
+AI outputs 'E7'
+User inputs 'MISS'
+User inputs 'F5'
+AI outputs 'E9'
+User inputs 'MISS'
+User inputs 'E6'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'D6'
+User inputs 'MISS'
+User inputs 'E8'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'E9'
+AI outputs 'D2'
+User inputs 'MISS'
+User inputs 'D4'
+AI outputs 'D10'
+User inputs 'MISS'
+User inputs 'F4'
+AI outputs 'C9'
+User inputs 'MISS'
+User inputs 'G4'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'C4'
+AI outputs 'C5'
+User inputs 'MISS'
+User inputs 'B4'
+AI outputs 'C3'
+User inputs 'MISS'
+User inputs 'G2'
+AI outputs 'C1'
+User inputs 'MISS'
+User inputs 'H3'
+AI outputs 'B2'
+User inputs 'MISS'
+User inputs 'I2'
+AI outputs 'B4'
+User inputs 'MISS'
+User inputs 'H1'
+AI outputs 'B6'
+User inputs 'MISS'
+User inputs 'E3'
+AI outputs 'B8'
+User inputs 'MISS'
+User inputs 'F2'
+AI outputs 'B10'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'A9'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'A7'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'A5'
+User inputs 'MISS'
+User inputs 'B3'
+AI outputs 'A3'
+User inputs 'MISS'
+User inputs 'B1'
+AI outputs 'A1'
+User inputs 'MISS'
+User inputs 'B7'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'B9'
+AI outputs 'F4'
+User inputs 'MISS'
+User inputs 'C8'
+AI outputs 'F2'
+User inputs 'MISS'
+User inputs 'B5'
+AI outputs 'F8'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'F10'
+User inputs 'MISS'
+User inputs 'D6'
+AI outputs 'G9'
+User inputs 'MISS'
+User inputs 'C6'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'A3'
+AI outputs 'G5'
+User inputs 'MISS'
+User inputs 'A6'
+AI outputs 'G3'
+User inputs 'MISS'
+User inputs 'A9'
+AI outputs 'G1'
+User inputs 'MISS'
+User inputs 'C10'
+AI outputs 'H2'
+User inputs 'MISS'
+User inputs 'F10'
+AI outputs 'H4'
+User inputs 'MISS'
+User inputs 'F9'
+AI outputs 'H6'
+User inputs 'MISS'
+User inputs 'E10'
+AI outputs 'H8'
+User inputs 'MISS'
+User inputs 'G9'
+AI outputs 'H10'
+User inputs 'MISS'
+User inputs 'G10'
+AI outputs 'I9'
+User inputs 'MISS'
+User inputs 'G8'
+AI outputs 'I7'
+User inputs 'MISS'
+User inputs 'G7'
+AI outputs 'I5'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., M, ., ., M, ., ., M, .]
+B[D, D, M, C, M, M, M, ., M, .]
+C[., ., M, C, ., M, ., M, ., M]
+D[., M, ., C, ., M, ., M, ., .]
+E[., ., M, C, B, B, B, B, M, S]
+F[., M, ., C, M, ., ., ., M, S]
+G[., M, ., M, ., ., c, c, c, S]
+H[M, ., M, ., ., ., ., ., ., .]
+I[., M, ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User won the game in 42 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., X, X, X, X, X, ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., X, .]
+F[X, ., ., ., ., ., ., ., X, .]
+G[X, ., ., ., ., ., ., ., X, .]
+H[., X, ., ., ., ., ., ., X, .]
+I[., X, ., ., ., ., ., ., ., .]
+J[., X, ., ., X, X, ., ., ., .]
+User inputs 'B3'
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'E7'
+AI outputs 'E6'
+User inputs 'HIT Carrier'
+User inputs 'B8'
+AI outputs 'E4'
+User inputs 'HIT Carrier'
+User inputs 'H2'
+AI outputs 'E7'
+User inputs 'HIT Carrier'
+User inputs 'G2'
+AI outputs 'E3'
+User inputs 'HIT, SUNK Carrier'
+User inputs 'H3'
+AI outputs 'D8'
+User inputs 'HIT Battleship'
+User inputs 'I2'
+AI outputs 'C8'
+User inputs 'HIT Battleship'
+User inputs 'J2'
+AI outputs 'B8'
+User inputs 'HIT Battleship'
+User inputs 'F6'
+AI outputs 'A8'
+User inputs 'HIT, SUNK Battleship'
+User inputs 'H8'
+AI outputs 'G8'
+User inputs 'HIT Cruiser'
+User inputs 'F8'
+AI outputs 'H8'
+User inputs 'HIT Cruiser'
+User inputs 'D4'
+AI outputs 'F8'
+User inputs 'HIT, SUNK Cruiser'
+User inputs 'J10'
+AI outputs 'H3'
+User inputs 'HIT Submarine'
+User inputs 'A10'
+AI outputs 'H4'
+User inputs 'HIT Submarine'
+User inputs 'A1'
+AI outputs 'H5'
+User inputs 'HIT, SUNK Submarine'
+User inputs 'E1'
+AI outputs 'G2'
+User inputs 'HIT Destroyer'
+User inputs 'F1'
+AI outputs 'F2'
+User inputs 'HIT, SUNK Destroyer'
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., B, ., .]
+B[., ., ., ., ., ., ., B, ., .]
+C[., ., ., ., ., ., ., B, ., .]
+D[., ., ., ., ., ., ., B, ., .]
+E[., ., C, C, C, C, C, ., ., .]
+F[., D, ., ., ., ., ., c, ., .]
+G[., D, ., ., ., ., ., c, ., .]
+H[., ., S, S, S, ., ., c, ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+This is the AI's board displaying the user's shots.
+  1  2  3  4  5  6  7  8  9  10
+A[M, ., ., ., ., ., ., ., ., M]
+B[., ., M, ., ., ., ., M, ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., M, ., ., ., ., ., .]
+E[c, ., ., ., ., ., M, ., ., .]
+F[c, ., ., ., ., M, ., M, ., .]
+G[., M, ., ., ., ., ., ., ., .]
+H[., S, M, ., ., ., ., M, ., .]
+I[., S, ., ., ., ., ., ., ., .]
+J[., S, ., ., ., ., ., ., ., M]
+Computer won the game in 17 moves.
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., X, ., ., .]
+D[., ., ., ., ., X, X, X, ., .]
+E[., ., ., ., ., X, X, X, ., .]
+F[., ., ., X, ., X, ., X, ., .]
+G[., ., ., X, ., X, ., X, ., .]
+H[., ., X, X, X, ., ., X, ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., X, X, X, X, X, ., .]
+D[., ., ., ., ., ., ., ., ., .]
+E[., ., ., ., ., X, ., ., ., .]
+F[., ., ., ., ., X, ., X, ., .]
+G[., ., ., X, X, X, ., X, ., .]
+H[., ., ., X, X, X, X, X, ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'A1'
+AI outputs 'G10'
+User inputs 'MISS'
+User inputs 'E7'
+AI outputs 'J6'
+User inputs 'HIT Carrier'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., X, X, X, ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[X, ., ., ., ., ., ., ., ., .]
+E[X, ., ., ., ., ., ., ., ., X]
+F[X, ., ., ., ., ., ., ., ., X]
+G[X, ., ., ., ., ., ., ., ., .]
+H[., ., ., ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[X, X, X, X, X, X, X, X, ., .]
+User inputs 'H6'
+AI outputs 'E5'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., X, X, X, ., ., .]
+B[., ., X, X, ., ., ., ., ., X]
+C[., ., ., ., ., ., ., ., ., X]
+D[., ., ., ., ., ., ., ., ., X]
+E[., ., ., ., ., ., ., ., ., X]
+F[X, ., ., ., ., ., ., ., ., .]
+G[X, ., ., ., ., ., ., ., ., .]
+H[X, ., ., ., ., ., ., ., ., .]
+I[X, X, X, X, X, ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'F4'
+AI outputs 'E5'
+User inputs 'HIT Carrier'
+User inputs 'C9'
+AI outputs 'E6'
+User inputs 'MISS'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., X, ., X, ., ., .]
+D[., ., ., ., X, X, X, ., ., .]
+E[., ., ., X, X, X, ., ., ., .]
+F[., ., X, X, X, X, ., ., ., .]
+G[., ., X, X, X, X, ., ., ., .]
+H[., ., X, ., ., ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., X, X, X, X, ., .]
+D[., ., X, ., ., ., ., ., ., .]
+E[., ., X, ., ., ., ., ., ., .]
+F[., ., ., ., X, X, X, ., ., .]
+G[., ., ., X, X, X, X, X, ., .]
+H[., ., X, X, X, ., ., ., ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'E3'
+AI outputs 'J5'
+User inputs 'MISS'
+User inputs 'F3'
+AI outputs 'H3'
+User inputs 'MISS'
+User inputs 'E4'
+AI outputs 'J2'
+User inputs 'MISS'
+User inputs 'D3'
+AI outputs 'H9'
+User inputs 'MISS'
+User inputs 'C3'
+AI outputs 'J4'
+User inputs 'MISS'
+User inputs 'H10'
+AI outputs 'B3'
+User inputs 'HIT Carrier'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., X, X, .]
+B[., X, ., ., ., ., ., ., ., .]
+C[., X, ., ., ., ., ., ., ., .]
+D[., X, ., ., ., ., ., ., ., X]
+E[., X, ., ., ., ., ., ., ., X]
+F[., X, ., ., ., ., ., ., ., X]
+G[., ., ., ., ., ., ., ., ., X]
+H[., ., ., ., ., ., ., ., ., X]
+I[., ., ., ., ., ., X, X, X, X]
+J[., ., ., ., ., ., ., ., ., X]
+User inputs 'D4'
+AI outputs 'E5'
+User inputs 'MISS'
+User inputs 'B6'
+AI outputs 'F6'
+User inputs 'MISS'
+User inputs 'B2'
+AI outputs 'D4'
+User inputs 'MISS'
+User inputs 'C2'
+AI outputs 'G7'
+User inputs 'MISS'
+User inputs 'D2'
+AI outputs 'C7'
+User inputs 'MISS'
+User inputs 'E2'
+AI outputs 'D8'
+User inputs 'MISS'
+User inputs 'A2'
+AI outputs 'G3'
+User inputs 'HIT Carrier'
+User inputs 'F2'
+AI outputs 'G2'
+User inputs 'MISS'
