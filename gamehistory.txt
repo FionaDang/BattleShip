@@ -4719,3 +4719,18 @@ User inputs 'HIT Carrier'
 User inputs 'F2'
 AI outputs 'G2'
 User inputs 'MISS'
+Game started
+Here are the AI's ship positions:
+  1  2  3  4  5  6  7  8  9  10
+A[., ., ., ., ., ., ., ., ., .]
+B[., ., ., ., ., ., ., ., ., .]
+C[., ., ., ., ., ., ., ., ., .]
+D[., ., ., ., ., ., ., X, ., .]
+E[., ., X, X, X, X, ., X, ., .]
+F[., ., ., ., ., X, ., X, ., .]
+G[., ., X, X, X, ., ., X, ., .]
+H[., ., ., X, X, X, X, X, ., .]
+I[., ., ., ., ., ., ., ., ., .]
+J[., ., ., ., ., ., ., ., ., .]
+User inputs 'D4'
+AI outputs 'J3'
